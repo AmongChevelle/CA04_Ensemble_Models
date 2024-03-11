@@ -42,6 +42,6 @@ pip install pandas numpy matplotlib scikit-learn xgboost
 
 To run the notebook:
 
-1. Clone the repository or download the `.ipynb` file and this README to your local machine.
+1. Clone the repository or download the `.ipynb` file
 2. Open the notebook in Jupyter Notebook/Lab.
-3. Execute the cells in order to reproduce the analysis.
+3. Execute the cells in order to reproduce the analysis. If you have all of the installed packages, I recommend starting at cell 2, otherwise run from the beginning
