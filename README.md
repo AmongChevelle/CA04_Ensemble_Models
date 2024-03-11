@@ -45,7 +45,3 @@ To run the notebook:
 1. Clone the repository or download the `.ipynb` file and this README to your local machine.
 2. Open the notebook in Jupyter Notebook/Lab.
 3. Execute the cells in order to reproduce the analysis.
-
-## Additional Resources
-
-- [Model Evaluation Functions in SKlearn](https://scikit-learn.org/stable/modules/model_evaluation.html) - A comprehensive list of all model evaluation functions in the sklearn library, useful as a reference for future projects.
